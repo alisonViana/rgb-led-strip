@@ -1,0 +1,2 @@
+https://how2electronics.com/interfacing-rgb-led-strip-with-arduino-mosfet/
+https://www.makerguides.com/tcs34725-rgb-color-sensor-with-arduino/

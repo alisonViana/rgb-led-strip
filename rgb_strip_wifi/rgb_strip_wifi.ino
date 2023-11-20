@@ -27,8 +27,8 @@ boolean colorDetection = true;
 const int freq = 5000;
 const int resolution = 8;
 const int redChannel = 0;
-const int greenChannel = 0;
-const int blueChannel = 0;
+const int greenChannel = 2;
+const int blueChannel = 4;
 
 // prototypes
 boolean connectWifi();
